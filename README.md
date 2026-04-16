@@ -39,7 +39,7 @@ Discuss with your team and choose a research direction. Your prediction must go 
 
 | Direction | Example questions |
 |-----------|-------------------|
-| **Long-term statistical prediction** | Will May be rainier than the climate norm? Will the majority of July days be above 35 °C? What is the probability that average summer temperature exceeds the 10-year mean? Report results with **confidence intervals** or **probabilities** — think **monthly or seasonal** questions, not next-Tuesday questions. |
+| **Long-term statistical prediction** | Will May be rainier than the climate norm? Will the majority of July days be above 25 °C? What is the probability that average summer temperature exceeds the 10-year mean? Report results with **confidence intervals** or **probabilities** — think **monthly or seasonal** questions, not next-Tuesday questions. |
 | **Spatial refinement** | Take an existing city-scale 7-day forecast and refine it for a **specific location** — a rural area, a particular agricultural field, your neighbourhood — using interpolation, elevation adjustments, or local correction factors. |
 
 Your team may also propose a different direction, as long as it goes beyond what a standard forecast already provides.
